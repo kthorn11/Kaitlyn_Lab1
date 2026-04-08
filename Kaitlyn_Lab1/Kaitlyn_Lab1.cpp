@@ -13,6 +13,8 @@ int main()
     cout << "Changes made by Landon!" << endl;
     cout << "Lab 1 completed on April 8th!" << endl;
     cout << "Feature by Kaitlyn Thornton: Branching is awesome!" << endl;
+
+    cout << "Student ID: [12345] | Name: [Kaitlyn Thornton]" << endl;
 }
 
 
