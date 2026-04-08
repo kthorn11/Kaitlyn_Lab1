@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello from student B !" << endl;
+    std::cout << "Hello from student B!" << endl;
     cout << "Git makes collaboration easy!" << endl;
     cout << "Changes made by Landon!" << endl;
     cout << "Lab 1 completed on April 8th!" << endl;
