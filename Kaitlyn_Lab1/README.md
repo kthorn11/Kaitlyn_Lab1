@@ -13,3 +13,6 @@ This is a simple C++ console application created for Git Lab 1.
 - Landon Baeder
 
 ## Changes Made by Kaitlyn Thornton
+
+## Team Members
+- [Kaitlyn Thornton] - Feature student info display
