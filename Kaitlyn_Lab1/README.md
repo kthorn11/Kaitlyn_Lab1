@@ -11,3 +11,5 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Kaitlyn Thornton
 - Landon Baeder
+
+## Changes Made by Kaitlyn Thornton

@@ -10,6 +10,8 @@ int main()
     std::cout << "Hello from Kaitlyn Thornton! This is my first Git commit" << endl;
     cout << "Git makes collaboration easy!" << endl;
     cout << "Changes made by Landon!" << endl;
+    cout << "Lab 1 completed on April 8th!" << endl;
+    cout << "Feature by Kaitlyn Thornton: Branching is awesome!" << endl;
 }
 
 
