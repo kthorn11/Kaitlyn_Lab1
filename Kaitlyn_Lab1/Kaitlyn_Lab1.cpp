@@ -1,6 +1,7 @@
 // Edited directly on GitHub
 // Kaitlyn_Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+//Feature by Kaitlyn Thornton: This is a simple C++ program that calculates a student's grade based on their score. The program prompts the user to enter a score, and then it uses a series of if-else statements to determine the corresponding grade (A, B, C, D, or F) and displays it to the user. Additionally, the program includes some print statements to demonstrate collaboration between students A and B, as well as a message about completing Lab 1 on April 8th.
 
 #include <iostream>
 using namespace std;
