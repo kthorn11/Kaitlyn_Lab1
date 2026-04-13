@@ -5,6 +5,25 @@
 #include <iostream>
 using namespace std;
 
+void calculatorGrade(int score) {
+	if (score >= 90)
+	{
+		cout << "Grade: A" << endl;
+	}
+	else if (score >= 80) {
+		cout << "Grade: B" << endl;
+	}
+	else if (score >= 70) {
+		cout << "Grade: C" << endl;
+	}
+	else if (score >= 60) {
+		cout << "Grade: D" << endl;
+	}
+	else {
+		cout << "Grade: F" << endl;
+	}
+}
+
 int main()
 {
     std::cout << "Hello from student B !" << endl;
@@ -13,6 +32,14 @@ int main()
     cout << "Changes made by Landon!" << endl;
     cout << "Lab 1 completed on April 8th!" << endl;
     cout << "Feature by Kaitlyn Thornton: Branching is awesome!" << endl;
+
+	int studentScore;
+	cout << "Enter a score to calculate the grade: ";
+	cin >> studentScore;
+
+	calculatorGrade(studentScore);
+
+	return 0;
 }
 
 
