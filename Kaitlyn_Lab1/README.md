@@ -16,3 +16,7 @@ This is a simple C++ console application created for Git Lab 1.
 
 ## Team Members
 - [Kaitlyn Thornton] - Feature student info display
+
+## Pass-Fail-Check
+-Checks to see if student passed or failed
+-Grade must be above a 70 for them to pass

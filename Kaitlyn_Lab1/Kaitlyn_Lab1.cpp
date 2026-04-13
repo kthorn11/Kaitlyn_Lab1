@@ -5,6 +5,19 @@
 #include <iostream>
 using namespace std;
 
+void pass_fail_check(int grade)
+{
+    //Feature by Landon: Pass-Fail-Check - Checks if grade is above 70
+    if (grade >= 70)
+    {
+        cout << "Passed";
+    }
+    else
+    {
+        cout << "Failed";
+    }
+}
+
 int main()
 {
     std::cout << "Hello from student B !" << endl;
@@ -13,6 +26,12 @@ int main()
     cout << "Changes made by Landon!" << endl;
     cout << "Lab 1 completed on April 8th!" << endl;
     cout << "Feature by Kaitlyn Thornton: Branching is awesome!" << endl;
+
+    int studentScore = 0;
+    cout << "Enter score: ";
+    cin >> studentScore;
+
+    pass_fail_check(studentScore);
 }
 
 
