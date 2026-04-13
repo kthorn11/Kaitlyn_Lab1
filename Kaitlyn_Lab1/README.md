@@ -16,3 +16,4 @@ This is a simple C++ console application created for Git Lab 1.
 
 ## Team Members
 - [Kaitlyn Thornton] - Feature student info display
+- Kaitlyn Thornton- Feature gradingsystem
