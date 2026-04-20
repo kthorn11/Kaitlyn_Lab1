@@ -20,3 +20,4 @@ This is a simple C++ console application created for Git Lab 1.
 ## Pass-Fail-Check
 -Checks to see if student passed or failed
 -Grade must be above a 70 for them to pass
+- Kaitlyn Thornton- Feature gradingsystem
